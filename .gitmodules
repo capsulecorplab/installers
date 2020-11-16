@@ -7,3 +7,6 @@
 [submodule "plantuml-installer"]
 	path = plantuml-installer
 	url = git@gist.github.com:3654d9148340e3e76bf4f94e1cd463db.git
+[submodule "signal-installer"]
+	path = signal-installer
+	url = git@gist.github.com:becffcecd61985894b85e544ce228756.git
