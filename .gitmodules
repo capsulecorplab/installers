@@ -4,3 +4,6 @@
 [submodule "docker-installer"]
 	path = docker-installer
 	url = git@gist.github.com:75bf4fcb6463f750ca8e669350110c4f.git
+[submodule "plantuml-installer"]
+	path = plantuml-installer
+	url = git@gist.github.com:3654d9148340e3e76bf4f94e1cd463db.git
