@@ -10,3 +10,6 @@
 [submodule "signal-installer"]
 	path = signal-installer
 	url = git@gist.github.com:becffcecd61985894b85e544ce228756.git
+[submodule "chitubox-installer"]
+	path = chitubox-installer
+	url = git@gist.github.com:b804f247f2e52d90c2290189707ad97e.git
