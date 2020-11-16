@@ -1,3 +1,6 @@
 [submodule "ubuntu-packages"]
 	path = ubuntu-packages
 	url = git@gist.github.com:8a4f12d1f8d5dc3f0e8736b806bd77b8.git
+[submodule "docker-installer"]
+	path = docker-installer
+	url = git@gist.github.com:75bf4fcb6463f750ca8e669350110c4f.git
