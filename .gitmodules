@@ -13,3 +13,6 @@
 [submodule "chitubox-installer"]
 	path = chitubox-installer
 	url = git@gist.github.com:b804f247f2e52d90c2290189707ad97e.git
+[submodule "gt-installer"]
+	path = gt-installer
+	url = git@gist.github.com:6d9b040f393e0a248826dd3c6cfca743.git
