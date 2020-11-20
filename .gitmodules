@@ -16,3 +16,6 @@
 [submodule "gt-installer"]
 	path = gt-installer
 	url = git@gist.github.com:6d9b040f393e0a248826dd3c6cfca743.git
+[submodule "dropbox-installer"]
+	path = dropbox-installer
+	url = git@gist.github.com:ef81648cf82f023692d04bf832eb8883.git
