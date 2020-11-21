@@ -19,3 +19,6 @@
 [submodule "dropbox-installer"]
 	path = dropbox-installer
 	url = git@gist.github.com:ef81648cf82f023692d04bf832eb8883.git
+[submodule "keybase-installer"]
+	path = keybase-installer
+	url = git@gist.github.com:aaf1e3dd0ae4a34a66dcaec3d4380fc5.git
