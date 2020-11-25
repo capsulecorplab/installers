@@ -22,3 +22,6 @@
 [submodule "keybase-installer"]
 	path = keybase-installer
 	url = git@gist.github.com:aaf1e3dd0ae4a34a66dcaec3d4380fc5.git
+[submodule "tng-chime-installer"]
+	path = tng-chime-installer
+	url = git@gist.github.com:19261dc41797ce81e8ef3e12b93bf323.git
