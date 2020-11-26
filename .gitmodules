@@ -25,3 +25,6 @@
 [submodule "tng-chime-installer"]
 	path = tng-chime-installer
 	url = git@gist.github.com:19261dc41797ce81e8ef3e12b93bf323.git
+[submodule "kpcli-installer"]
+	path = kpcli-installer
+	url = git@gist.github.com:60586b7e2962f42e9692cadb6c3d24b7.git
