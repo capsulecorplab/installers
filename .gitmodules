@@ -28,3 +28,6 @@
 [submodule "kpcli-installer"]
 	path = kpcli-installer
 	url = git@gist.github.com:60586b7e2962f42e9692cadb6c3d24b7.git
+[submodule "arduino-installer"]
+	path = arduino-installer
+	url = git@gist.github.com:dffa4e4add50b9381bfd0021a7e1aaa3.git
