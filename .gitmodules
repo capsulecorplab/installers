@@ -34,3 +34,6 @@
 [submodule "rbenv-installer"]
 	path = rbenv-installer
 	url = git@gist.github.com:aa4c5a8167509b94ac43405f99bc9ffd.git
+[submodule "nvm"]
+	path = nvm
+	url = git@github.com:nvm-sh/nvm.git
