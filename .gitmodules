@@ -40,3 +40,6 @@
 [submodule "pyenv-installer"]
 	path = pyenv-installer
 	url = git@gist.github.com:2d1998522c36f84a070380e766b0423a.git
+[submodule "cura-installer"]
+	path = cura-installer
+	url = git@gist.github.com:5720e9b9af19fc735c5b1bf2076fdea5.git
